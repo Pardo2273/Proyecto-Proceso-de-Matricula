@@ -1,5 +1,5 @@
 
-# --- MAVEN (La carpeta 'target' que se ve en tu imagen) ---
+# --- MAVEN
 # Esta carpeta contiene todo lo que Maven construye; no debe subirse.
 target/
 pom.xml.tag
@@ -11,7 +11,7 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
-# --- NETBEANS (El archivo 'nbactions.xml' que tienes) ---
+# --- NETBEANS
 # Ignora configuraciones específicas de NetBeans
 nbproject/private/
 nbbuild/
