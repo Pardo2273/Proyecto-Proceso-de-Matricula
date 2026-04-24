@@ -1,0 +1,24 @@
+
+# --- MAVEN (La carpeta 'target' que se ve en tu imagen) ---
+# Esta carpeta contiene todo lo que Maven construye; no debe subirse.
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# --- NETBEANS (El archivo 'nbactions.xml' que tienes) ---
+# Ignora configuraciones específicas de NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# --- SISTEMA OPERATIVO ---
+.DS_Store
+Thumbs.db
